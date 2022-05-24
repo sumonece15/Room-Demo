@@ -4,7 +4,6 @@ import android.app.Application
 import android.util.Log
 import androidx.lifecycle.*
 import com.google.firebase.firestore.*
-import com.sumon.firebase.FirebaseModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 

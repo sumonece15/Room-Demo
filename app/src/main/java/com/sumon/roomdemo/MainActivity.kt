@@ -1,22 +1,14 @@
 package com.sumon.roomdemo
 
-import android.app.ActionBar
-import android.graphics.Bitmap
-import android.graphics.drawable.BitmapDrawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.view.Menu
 import androidx.appcompat.widget.SearchView
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
-import coil.ImageLoader
-import coil.request.ImageRequest
-import coil.request.SuccessResult
 import com.google.firebase.firestore.*
-import com.sumon.firebase.FirebaseModel
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.coroutines.launch
 
