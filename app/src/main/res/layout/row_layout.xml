@@ -44,6 +44,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="20dp"
         android:text="First Name"
+        android:fontFamily="cursive"
         android:textColor="@color/black"
         android:textSize="20sp"
         />
@@ -54,6 +55,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
         android:text="Last Name"
+        android:fontFamily="cursive"
         android:textColor="@color/black"
         />
 
