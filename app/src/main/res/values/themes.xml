@@ -14,5 +14,10 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="Theme.RoomDemo.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
 
 </resources>
